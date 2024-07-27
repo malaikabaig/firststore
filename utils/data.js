@@ -56,7 +56,7 @@ const data = {
       name: 'Fit Pants',
       slug: 'fit-pants',
       category: 'Pants',
-      image: '/../images/pants2.jpg',
+      image: '/images/pants2.jpg',
       price: 95,
       brand: 'Zara',
       rating: 3.5,
