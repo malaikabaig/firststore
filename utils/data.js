@@ -47,7 +47,7 @@ const data = {
       image: '/images/pants1.jpg',
       price: 90,
       brand: 'Oliver',
-      rating: 2.9,
+      rating: 3.0,
       numReviews: 13,
       countInStock: 20,
       description: 'Smart looking pants',
